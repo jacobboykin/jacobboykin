@@ -12,7 +12,9 @@ I'm a platform and backend engineer with over a decade of experience in technolo
 
 I live in Central Florida, USA. Outside of work I make music, play board/video games, and spend time with my family and our two dogs.
 
-**Contact:** 💼 [linkedin.com/in/jacobboykin](https://www.linkedin.com/in/jacobboykin) · 📧 [jacob@scientific.pizza](mailto:jacob@scientific.pizza)
+💼 [linkedin.com/in/jacobboykin](https://www.linkedin.com/in/jacobboykin) 
+
+📧 [jacob@scientific.pizza](mailto:jacob@scientific.pizza)
 
 ---
 
