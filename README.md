@@ -6,28 +6,13 @@
 
 ---
 
-<table>
-<tr>
-<td valign="top" width="70%">
-
 ### 👋 Hey there!
 
-I'm a platform and backend engineer with over a decade of experience in technology. I'm passionate about open source, automation, and developer experience. I'm currently a Software Engineer at [Akuity](https://akuity.io) working with the founders of  <img src="argo-mascot.webp" width="15" style="vertical-align:middle" /> [Argo](https://argoproj.github.io/) and  <img src="kargo-mascot.png" width="15" style="vertical-align:middle" /> [Kargo](https://kargo.io/) building the Enterprise GitOps Akuity Platform.
+I'm a platform and backend engineer with over a decade of experience in technology. I'm currently a Software Engineer at [Akuity](https://akuity.io) working with the founders of <img src="argo-mascot.webp" width="15" style="vertical-align:middle" /> [Argo](https://argoproj.github.io/) and <img src="kargo-mascot.png" width="15" style="vertical-align:middle" /> [Kargo](https://kargo.io/) building the Enterprise GitOps Akuity Platform.
 
-I currently live in Central Florida, USA. I spend my free time making music, playing board/video games, and spending time with my family and our two dogs.
+I live in Central Florida, USA. Outside of work I make music, play board/video games, and spend time with my family and our two dogs.
 
 **Contact:** 💼 [linkedin.com/in/jacobboykin](https://www.linkedin.com/in/jacobboykin) · 📧 [jacob@scientific.pizza](mailto:jacob@scientific.pizza)
-
-
-
-</td>
-<td valign="middle" align="right" width="30%">
-
-<img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" alt="coding gif" />
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -46,3 +31,12 @@ I currently live in Central Florida, USA. I spend my free time making music, pla
 | 2020 -- 2021 | 👨‍🍳 **[Chef Software](https://www.chef.io)** | Software Engineer |
 | 2017 -- 2020 | 🔒 **[TechRev, Inc](https://www.techrev.com)** | DevOps Engineer *(TS/SCI)* |
 | 2014 -- 2017 | 🏥 **[Florida Health](https://www.floridahealth.gov)** | Distributed Computer Systems Analyst |
+
+---
+
+<div align="center">
+
+<img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="coding gif" />
+
+</div>
+
