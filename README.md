@@ -44,7 +44,6 @@ I currently live in Central Florida, USA. I spend my free time making music, pla
 | 2020 -- 2021 | 👨‍🍳 **[Chef Software](https://www.chef.io)** | Software Engineer |
 | 2017 -- 2020 | 🔒 **[TechRev, Inc](https://www.techrev.com)** | DevOps Engineer *(TS/SCI)* |
 | 2014 -- 2017 | 🏥 **[Florida Health](https://www.floridahealth.gov)** | Distributed Computer Systems Analyst |
-| 2014 | 🗳️ **[Brevard County SOE](https://www.votebrevard.gov/)** | IT Support, Contract |
 
 ---
 
