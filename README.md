@@ -20,7 +20,7 @@ I live in Central Florida, USA. Outside of work I make music, play board/video g
 
 ### Skills
 
-<img src="https://skillicons.dev/icons?i=go,python,javascript,typescript,html,css,git,github,gitlab,kubernetes,docker,linux,prometheus,grafana,postgres,mongodb,terraform,ansible,aws,gcp" />
+<img src="https://skillicons.dev/icons?i=go,python,kubernetes,docker,linux,prometheus,grafana,postgres,aws,gcp,javascript,typescript,html,css,git,github,gitlab,mongodb,terraform,ansible,powershell," />
 
 ---
 
