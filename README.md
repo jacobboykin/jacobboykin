@@ -12,8 +12,6 @@ I'm a platform and backend engineer with over a decade of experience in technolo
 
 I live in Central Florida, USA. Outside of work I make music, play board/video games, and spend time with my family and our two dogs.
 
-💼 [linkedin.com/in/jacobboykin](https://www.linkedin.com/in/jacob-boykin) 
-
 📧 [jacob@scientific.pizza](mailto:jacob@scientific.pizza)
 
 ---
@@ -21,19 +19,6 @@ I live in Central Florida, USA. Outside of work I make music, play board/video g
 ### Skills
 
 <img src="https://skillicons.dev/icons?i=go,python,kubernetes,docker,linux,prometheus,grafana,postgres,aws,gcp,javascript,typescript,html,css,git,github,gitlab,mongodb,terraform,ansible,powershell," />
-
----
-
-### Experience
-
-| Period | Company | Role |
-|---|---|---|
-| 2025 -- present | 🐙 **[Akuity](https://akuity.io)** | Software Engineer |
-| 2021 -- 2025 | 💳 **[Bread Financial](https://www.breadfinancial.com)** | Senior Platform Developer |
-| 2020 -- 2021 | 👨‍🍳 **[Chef Software](https://www.chef.io)** | Software Engineer |
-| 2017 -- 2020 | 🔒 **[TechRev, Inc](https://www.techrev.com)** | DevOps Engineer *(TS/SCI)* |
-| 2014 -- 2017 | 🏥 **[Florida Health](https://www.floridahealth.gov)** | Distributed Computer Systems Analyst |
-
 ---
 
 <div align="center">
